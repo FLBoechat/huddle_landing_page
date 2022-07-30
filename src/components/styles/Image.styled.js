@@ -1,11 +1,8 @@
 import styled from 'styled-components'
 
 
-export const Image = styled.img`
+export const StyledImage = styled.img`
 
-svg {
-   color: white ;
-}
 
 `
 
