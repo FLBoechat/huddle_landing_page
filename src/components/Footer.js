@@ -11,7 +11,7 @@ function Footer (){
             <div>
                 <StyledImage
                     src={icon_message}
-                    style={{height: 25, width: 25}}
+                    style={{height: 15, width: 15}}
                     alt="Icon MEssage"
                 />
                 <h1>Huddle</h1>
